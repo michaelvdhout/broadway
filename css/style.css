@@ -3,23 +3,48 @@
   align-items: center;
   font-family: helvetica;
 }
+
+body {
+  background: black;
+}
+
 a {
   color: white;
 }
 
+.content {
+  width: 70%;
+  margin: 0 15%;
+  /*
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 0;
+  margin-bottom: 0;
+  */
+  background: white;
+}
+
 .broadway {
-  font-size: 70px;
+
   font-weight: bold;
   color: white;
   background-image: url("../css/resources/bigbuilding.png");
+  background-position: center;
+  background-size: cover;
 }
 
 .broadway h1 {
+  font-size: 70px;
   margin-bottom: 70px;
 }
 
 .broadway a {
   font-size:18px;
+}
+
+.broadway li {
+  margin-bottom: 18px;
+  list-style: none;
 }
 
 .process {
