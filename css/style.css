@@ -1,0 +1,51 @@
+* {
+  text-align: center;
+  align-items: center;
+  font-family: helvetica;
+}
+
+h1 {
+  margin-bottom: 70px;
+}
+
+.broadway {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../css/resources/bigbuilding.png");
+}
+
+.quicklinks {
+  font-size:18px;
+  color:white;
+
+}
+
+.process {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.identify {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.smalltext {
+  font-size: 14px;
+}
+
+.designed {
+  background-image: url("../css/resources/bigbuilding.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+
+h6 {
+  font-size: 11px;
+  color: white;
+  text-align: left;
+  background-color: dimgray;
+}
