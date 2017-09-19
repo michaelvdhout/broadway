@@ -3,9 +3,8 @@
   align-items: center;
   font-family: helvetica;
 }
-
-h1 {
-  margin-bottom: 70px;
+a {
+  color: white;
 }
 
 .broadway {
@@ -15,10 +14,12 @@ h1 {
   background-image: url("../css/resources/bigbuilding.png");
 }
 
-.quicklinks {
-  font-size:18px;
-  color:white;
+.broadway h1 {
+  margin-bottom: 70px;
+}
 
+.broadway a {
+  font-size:18px;
 }
 
 .process {
