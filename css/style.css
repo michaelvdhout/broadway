@@ -69,9 +69,14 @@ a {
 }
 
 
-h6 {
+.footer {
   font-size: 11px;
   color: white;
-  text-align: left;
+  text-align: left!important;
   background-color: dimgray;
+
+}
+
+.footer li {
+  display: inline;
 }
